@@ -11,8 +11,8 @@
     <PackageId>PreReleaseFixer</PackageId>
     <Title>PreReleaseFixer</Title>
     <Authors>art0007i</Authors>
-    <Version>0.1.0-beta</Version>
-    <Description>Does x.</Description>
+    <Version>0.1.0</Version>
+    <Description>Fixes some resonite mods which were broken by the settings pre-release version.</Description>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageLicenseExpression>LGPL-3.0-or-later</PackageLicenseExpression>
     <PackageProjectUrl>https://github.com/MonkeyModdingTroop/ModPreReleaseFixer</PackageProjectUrl>
